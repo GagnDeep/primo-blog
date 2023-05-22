@@ -8447,7 +8447,7 @@ function create_fragment$7(ctx) {
 				image: { "alt": "", "url": "" },
 				title: "",
 				description: "",
-				heading: "Sign up to get weekly blog entires about X topic ",
+				heading: "sjakdaskjd up to get weekly blog entires about X topic",
 				form: {
 					"endpoint": "https://formsubmit.co/your@email.com",
 					"placeholder": "Email address",
